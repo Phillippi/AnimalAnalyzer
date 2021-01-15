@@ -1,0 +1,29 @@
+PODS:
+  - ModuleAnalyzer (1.1.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - ModuleAnalyzer (from `https://github.com/Phillippi/MLModuleAnimals.git`, branch `master`)
+  - SnapKit (= 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  ModuleAnalyzer:
+    :branch: master
+    :git: https://github.com/Phillippi/MLModuleAnimals.git
+
+CHECKOUT OPTIONS:
+  ModuleAnalyzer:
+    :commit: 0e7a961ec133f1818160a2c559a0b20ff42e0a87
+    :git: https://github.com/Phillippi/MLModuleAnimals.git
+
+SPEC CHECKSUMS:
+  ModuleAnalyzer: a50a55757bb2d59e0f755078b7751a30ad39f534
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 4d1ed8c8c2c212d0caea915e64960f1f9f29e422
+
+COCOAPODS: 1.10.1
